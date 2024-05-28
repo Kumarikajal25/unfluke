@@ -87,7 +87,7 @@
   
   .Darkimg::before {
     content: "";
-    background-image: url("/waves-lg.svg");
+    background-image: url("./assets/waves-lg.svg");
     background-size: cover;
     opacity: 0.2;
     position: absolute;
